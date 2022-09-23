@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Rylan Wessel
+- 👋 Hi, I’m Rylan Wessel (he/him)
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on small game dev
-- 📫 How to reach me rylanlwessel@gmail.com
+- 📫 How to reach me raiunwes@gmail.com
 
 <!---
 XpIose/XpIose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
