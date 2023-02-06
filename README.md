@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rylan Wessel (he/him)
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently working on an open-source product solution for graphlQL caching
 - 💞️ I’m looking to collaborate on small game dev
 - 📫 How to reach me raiunwes@gmail.com
 
