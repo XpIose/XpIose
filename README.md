@@ -19,7 +19,8 @@
 <div display="flex" flex-direction="row">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xpiose&show_icons=true&locale=en&layout=compact" alt="xpiose" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xpiose&show_icons=true&locale=en" alt="xpiose" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=xpiose&" alt="xpiose" /></p> <p align="cetner"> <img src="https://komarev.com/ghpvc/?username=xpiose&label=Profile%20views&color=0e75b6&style=flat" alt="xpiose" /> </p>
+
+<p align="cetner"> <img src="https://komarev.com/ghpvc/?username=xpiose&label=Profile%20views&color=0e75b6&style=flat" alt="xpiose" /> </p>
 </div>
 
 
