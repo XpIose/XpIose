@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **small game dev**
 
-- 💬 Ask me about **GraphQL, Express, or Jest testing suite**
+- 💬 Ask me about **Microsevices, Express, or Jest testing suite**
 
 - 📫 How to reach me **raiunwes@gmail.com**
 
