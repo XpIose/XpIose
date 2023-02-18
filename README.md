@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Quell, GraphQL Caching solutions**
 
-- 🌱 I’m currently learning **Vue, Svelte, and**
+- 🌱 I’m currently learning **Vue, Svelte, Java**
 
 - 👯 I’m looking to collaborate on **small game dev**
 
