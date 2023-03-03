@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Quell, GraphQL Caching solutions**
 
-- 🌱 I’m currently learning **Vue, Svelte, Java**
+- 🌱 I’m currently learning **Vue, Python, Java**
 
-- 👯 I’m looking to collaborate on **small game dev**
+- 👯 I’m looking to collaborate on **any open-source project and small game dev**
 
-- 💬 Ask me about **Microsevices, Express, or Jest testing suite**
+- 💬 Ask me about **Microsevices, GraphQL, or Jest testing suite**
 
 - 📫 How to reach me **raiunwes@gmail.com**
 
