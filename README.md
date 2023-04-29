@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Quell, GraphQL Caching solutions**
 
-- 🌱 I’m currently learning **Vue, Python, Java**
+- 🌱 I’m currently learning about upcoming technologies
 
 - 👯 I’m looking to collaborate on **any open-source project and small game dev**
 
